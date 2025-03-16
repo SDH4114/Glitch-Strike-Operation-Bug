@@ -1,2 +1,0 @@
-# Backrooms-Shot
-Backrooms Shot
