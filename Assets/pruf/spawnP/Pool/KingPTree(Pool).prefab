@@ -1,0 +1,487 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &900142767836891846
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1838140567509158669}
+  - component: {fileID: 1255598369339384491}
+  m_Layer: 0
+  m_Name: KingP (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1838140567509158669
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 900142767836891846}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -40.7, y: 1, z: -162.7}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7164911577415802275}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1255598369339384491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 900142767836891846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41189244695734b82bbef392aa0e0273, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabsToSpawn:
+  - {fileID: 6466033183404375215, guid: f50b165cac055498687218c4f940b566, type: 3}
+  - {fileID: 4446271862190043232, guid: dadf2c1cdc4974ae590938fc2bfdc56d, type: 3}
+  - {fileID: 1919856582195090670, guid: ef817746d493d40998b4a77b09df6b32, type: 3}
+  - {fileID: 1082822686699286638, guid: 54935e86628954e518c1620bf1affc5e, type: 3}
+  - {fileID: 4715168899403915465, guid: 0cd61bed35d294b9dbba999cd30d4b16, type: 3}
+  - {fileID: 7104463871038652033, guid: de13f102314224a2d88d7a63b2bfb9f5, type: 3}
+  - {fileID: 833972810322955141, guid: 2e2e341b673824e0496459492a272ff5, type: 3}
+  - {fileID: 476088639819788066, guid: 16aed22a9ea604df18feef329378c55c, type: 3}
+  destroyAfterSeconds: 5
+--- !u!1 &1385043103770439602
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3482843134982383543}
+  - component: {fileID: 1035526874215005976}
+  m_Layer: 0
+  m_Name: KingP (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3482843134982383543
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1385043103770439602}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.6, y: 1, z: -142.8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7164911577415802275}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1035526874215005976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1385043103770439602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41189244695734b82bbef392aa0e0273, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabsToSpawn:
+  - {fileID: 6466033183404375215, guid: f50b165cac055498687218c4f940b566, type: 3}
+  - {fileID: 4446271862190043232, guid: dadf2c1cdc4974ae590938fc2bfdc56d, type: 3}
+  - {fileID: 1919856582195090670, guid: ef817746d493d40998b4a77b09df6b32, type: 3}
+  - {fileID: 1082822686699286638, guid: 54935e86628954e518c1620bf1affc5e, type: 3}
+  - {fileID: 4715168899403915465, guid: 0cd61bed35d294b9dbba999cd30d4b16, type: 3}
+  - {fileID: 7104463871038652033, guid: de13f102314224a2d88d7a63b2bfb9f5, type: 3}
+  - {fileID: 833972810322955141, guid: 2e2e341b673824e0496459492a272ff5, type: 3}
+  - {fileID: 476088639819788066, guid: 16aed22a9ea604df18feef329378c55c, type: 3}
+  destroyAfterSeconds: 5
+--- !u!1 &2157656309265175463
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2881440834486054854}
+  - component: {fileID: 5236850192694890672}
+  m_Layer: 0
+  m_Name: KingP
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2881440834486054854
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2157656309265175463}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -94.1, y: 1, z: 105}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7164911577415802275}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5236850192694890672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2157656309265175463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41189244695734b82bbef392aa0e0273, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabsToSpawn:
+  - {fileID: 6466033183404375215, guid: f50b165cac055498687218c4f940b566, type: 3}
+  - {fileID: 4446271862190043232, guid: dadf2c1cdc4974ae590938fc2bfdc56d, type: 3}
+  - {fileID: 1919856582195090670, guid: ef817746d493d40998b4a77b09df6b32, type: 3}
+  - {fileID: 1082822686699286638, guid: 54935e86628954e518c1620bf1affc5e, type: 3}
+  - {fileID: 4715168899403915465, guid: 0cd61bed35d294b9dbba999cd30d4b16, type: 3}
+  - {fileID: 7104463871038652033, guid: de13f102314224a2d88d7a63b2bfb9f5, type: 3}
+  - {fileID: 833972810322955141, guid: 2e2e341b673824e0496459492a272ff5, type: 3}
+  - {fileID: 476088639819788066, guid: 16aed22a9ea604df18feef329378c55c, type: 3}
+  destroyAfterSeconds: 5
+--- !u!1 &3257826799835126148
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4727119020101449574}
+  - component: {fileID: 2052505434801836507}
+  m_Layer: 0
+  m_Name: KingP (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4727119020101449574
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3257826799835126148}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.9, y: 1, z: -141.8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7164911577415802275}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2052505434801836507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3257826799835126148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41189244695734b82bbef392aa0e0273, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabsToSpawn:
+  - {fileID: 6466033183404375215, guid: f50b165cac055498687218c4f940b566, type: 3}
+  - {fileID: 4446271862190043232, guid: dadf2c1cdc4974ae590938fc2bfdc56d, type: 3}
+  - {fileID: 1919856582195090670, guid: ef817746d493d40998b4a77b09df6b32, type: 3}
+  - {fileID: 1082822686699286638, guid: 54935e86628954e518c1620bf1affc5e, type: 3}
+  - {fileID: 4715168899403915465, guid: 0cd61bed35d294b9dbba999cd30d4b16, type: 3}
+  - {fileID: 7104463871038652033, guid: de13f102314224a2d88d7a63b2bfb9f5, type: 3}
+  - {fileID: 833972810322955141, guid: 2e2e341b673824e0496459492a272ff5, type: 3}
+  - {fileID: 476088639819788066, guid: 16aed22a9ea604df18feef329378c55c, type: 3}
+  destroyAfterSeconds: 5
+--- !u!1 &3308927062646335701
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8530750096823969571}
+  - component: {fileID: 2486780442902352023}
+  m_Layer: 0
+  m_Name: KingP (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8530750096823969571
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3308927062646335701}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 14.8, y: 1, z: 101.6}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7164911577415802275}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2486780442902352023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3308927062646335701}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41189244695734b82bbef392aa0e0273, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabsToSpawn:
+  - {fileID: 6466033183404375215, guid: f50b165cac055498687218c4f940b566, type: 3}
+  - {fileID: 4446271862190043232, guid: dadf2c1cdc4974ae590938fc2bfdc56d, type: 3}
+  - {fileID: 1919856582195090670, guid: ef817746d493d40998b4a77b09df6b32, type: 3}
+  - {fileID: 1082822686699286638, guid: 54935e86628954e518c1620bf1affc5e, type: 3}
+  - {fileID: 4715168899403915465, guid: 0cd61bed35d294b9dbba999cd30d4b16, type: 3}
+  - {fileID: 7104463871038652033, guid: de13f102314224a2d88d7a63b2bfb9f5, type: 3}
+  - {fileID: 833972810322955141, guid: 2e2e341b673824e0496459492a272ff5, type: 3}
+  - {fileID: 476088639819788066, guid: 16aed22a9ea604df18feef329378c55c, type: 3}
+  destroyAfterSeconds: 5
+--- !u!1 &3337157358644739743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9086202508754513580}
+  - component: {fileID: 5028396990973968768}
+  m_Layer: 0
+  m_Name: KingP (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9086202508754513580
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3337157358644739743}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 102.7, y: 1, z: 102.4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7164911577415802275}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5028396990973968768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3337157358644739743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41189244695734b82bbef392aa0e0273, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabsToSpawn:
+  - {fileID: 6466033183404375215, guid: f50b165cac055498687218c4f940b566, type: 3}
+  - {fileID: 4446271862190043232, guid: dadf2c1cdc4974ae590938fc2bfdc56d, type: 3}
+  - {fileID: 1919856582195090670, guid: ef817746d493d40998b4a77b09df6b32, type: 3}
+  - {fileID: 1082822686699286638, guid: 54935e86628954e518c1620bf1affc5e, type: 3}
+  - {fileID: 4715168899403915465, guid: 0cd61bed35d294b9dbba999cd30d4b16, type: 3}
+  - {fileID: 7104463871038652033, guid: de13f102314224a2d88d7a63b2bfb9f5, type: 3}
+  - {fileID: 833972810322955141, guid: 2e2e341b673824e0496459492a272ff5, type: 3}
+  - {fileID: 476088639819788066, guid: 16aed22a9ea604df18feef329378c55c, type: 3}
+  destroyAfterSeconds: 5
+--- !u!1 &3626393929571909515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 652010480944692970}
+  - component: {fileID: 8828412017461395015}
+  m_Layer: 0
+  m_Name: KingP (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &652010480944692970
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3626393929571909515}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -106, y: 1, z: -21.6}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7164911577415802275}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8828412017461395015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3626393929571909515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41189244695734b82bbef392aa0e0273, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabsToSpawn:
+  - {fileID: 6466033183404375215, guid: f50b165cac055498687218c4f940b566, type: 3}
+  - {fileID: 4446271862190043232, guid: dadf2c1cdc4974ae590938fc2bfdc56d, type: 3}
+  - {fileID: 1919856582195090670, guid: ef817746d493d40998b4a77b09df6b32, type: 3}
+  - {fileID: 1082822686699286638, guid: 54935e86628954e518c1620bf1affc5e, type: 3}
+  - {fileID: 4715168899403915465, guid: 0cd61bed35d294b9dbba999cd30d4b16, type: 3}
+  - {fileID: 7104463871038652033, guid: de13f102314224a2d88d7a63b2bfb9f5, type: 3}
+  - {fileID: 833972810322955141, guid: 2e2e341b673824e0496459492a272ff5, type: 3}
+  - {fileID: 476088639819788066, guid: 16aed22a9ea604df18feef329378c55c, type: 3}
+  destroyAfterSeconds: 5
+--- !u!1 &8540877020761159258
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7164911577415802275}
+  - component: {fileID: 2354430748821556903}
+  m_Layer: 0
+  m_Name: KingPTree(Pool)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7164911577415802275
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8540877020761159258}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -95.92047, y: 0.5, z: -106.02795}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2881440834486054854}
+  - {fileID: 3482843134982383543}
+  - {fileID: 8530750096823969571}
+  - {fileID: 652010480944692970}
+  - {fileID: 6395398385268285418}
+  - {fileID: 4727119020101449574}
+  - {fileID: 9086202508754513580}
+  - {fileID: 1838140567509158669}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2354430748821556903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8540877020761159258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3365c232adaf048f09837cd904f47372, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deth: 10
+--- !u!1 &8854302310581427774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6395398385268285418}
+  - component: {fileID: 7345180179300054066}
+  m_Layer: 0
+  m_Name: KingP (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6395398385268285418
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8854302310581427774}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 32.5, y: 1, z: 81.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7164911577415802275}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7345180179300054066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8854302310581427774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41189244695734b82bbef392aa0e0273, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabsToSpawn:
+  - {fileID: 6466033183404375215, guid: f50b165cac055498687218c4f940b566, type: 3}
+  - {fileID: 4446271862190043232, guid: dadf2c1cdc4974ae590938fc2bfdc56d, type: 3}
+  - {fileID: 1919856582195090670, guid: ef817746d493d40998b4a77b09df6b32, type: 3}
+  - {fileID: 1082822686699286638, guid: 54935e86628954e518c1620bf1affc5e, type: 3}
+  - {fileID: 4715168899403915465, guid: 0cd61bed35d294b9dbba999cd30d4b16, type: 3}
+  - {fileID: 7104463871038652033, guid: de13f102314224a2d88d7a63b2bfb9f5, type: 3}
+  - {fileID: 833972810322955141, guid: 2e2e341b673824e0496459492a272ff5, type: 3}
+  - {fileID: 476088639819788066, guid: 16aed22a9ea604df18feef329378c55c, type: 3}
+  destroyAfterSeconds: 5

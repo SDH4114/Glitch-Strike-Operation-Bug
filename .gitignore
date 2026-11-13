@@ -1,0 +1,43 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Crash dumps
+mono_crash.*.json
+
+# IDE / generated project files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Asset meta data should be kept (do not ignore *.meta)
+
+# macOS
+.DS_Store
